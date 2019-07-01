@@ -6,9 +6,9 @@ export default createStackNavigator({
 }, {
   navigationOptions: {
     headerStyle: {
-      backgroundColor: '#add8e6'
+      backgroundColor: '#f5f5f5'
     },
-    headerTintColor: '#ffffff',
+    headerTintColor: '#000',
     headerTitleStyle: { 
       textAlign: 'center',
       flex: 1,
